@@ -1,6 +1,6 @@
 {
   "name": "@thorsten-wolf-neptune/dxp-mp-wolf-utilities",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Core Utilities",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/thorsten-wolf-neptune/dxp-mp-wolf-utilities#readme",
   "peerDependencies": {
-    "@thorsten-wolf-neptune/dxp-dep-sap-edition": ">= 21.10.x",
+    "@thorsten-wolf-neptune/dxp-dep-sap-edition": ">= 21.10.0003",
     "@thorsten-wolf-neptune/dxp-dep-open-edition": "21.10.0005"
   }
 }
