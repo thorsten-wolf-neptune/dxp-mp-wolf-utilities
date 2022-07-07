@@ -1,0 +1,26 @@
+{
+  "name": "@thorsten-wolf-neptune/dxp-mp-wolf-utilities",
+  "version": "0.0.1",
+  "description": "Core Utilities",
+  "main": "index.js",
+  "scripts": {
+    "publish:test": "npm publish --dry-run",
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorsten-wolf-neptune/dxp-mp-wolf-utilities.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thorsten-wolf-neptune/dxp-mp-wolf-utilities/issues"
+  },
+  "homepage": "https://github.com/thorsten-wolf-neptune/dxp-mp-wolf-utilities#readme",
+  "peerDependencies": {
+    "SAP_BASIS": "700",
+    "SAP_HR": "600",
+    "neptune-dxp-sap-edition": "21.10.0005",
+    "neptune-dxp-open-edition": "21.10.0005"
+  }
+}

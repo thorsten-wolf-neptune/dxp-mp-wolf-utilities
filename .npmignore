@@ -1,0 +1,11 @@
+src/*
+examples/*
+test/*
+build/test/*
+build/examples/*
+build/src/generation/*
+tsconfig.json
+*.js.map
+npm-debug.log
+build/*.tsbuildinfo
+.env
